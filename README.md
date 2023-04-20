@@ -6,7 +6,7 @@ A team page is an essential component of any business or organization's website.
 ![Screenshot (15)](https://user-images.githubusercontent.com/85302180/233427701-c9727dd2-7a6b-4bb9-83d6-30d42f00d9f0.png)
 ![Screenshot (16)](https://user-images.githubusercontent.com/85302180/233427890-f7032304-08b8-4e3a-b07b-7ee6d0e8e524.png)
 
-#FOOTER-PAGE
+# FOOTER-PAGE
 
 The footer page, also known as the footer section, is an important component of a website or web page. It is located at the bottom of the page and typically contains information that is important to users but does not necessarily belong in the main content area.
 
