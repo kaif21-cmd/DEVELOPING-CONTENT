@@ -5,8 +5,9 @@ A team page is an essential component of any business or organization's website.
 # OUTPUT TEAM-PAGE
 
 
-![Screenshot (15)](https://user-images.githubusercontent.com/85302180/233427701-c9727dd2-7a6b-4bb9-83d6-30d42f00d9f0.png)
-![Screenshot (16)](https://user-images.githubusercontent.com/85302180/233427890-f7032304-08b8-4e3a-b07b-7ee6d0e8e524.png)
+![Screenshot (19)](https://user-images.githubusercontent.com/85302180/233495383-2b420251-f746-4627-b050-47ae409e4c6d.png)
+
+![Screenshot (20)](https://user-images.githubusercontent.com/85302180/233495416-d4242a1c-42b6-4c34-aea6-0f30a481bb68.png)
 
 Click Here to see in your Devices
 https://6441b26448201235ae2d1f8e--bright-faloodeh-860969.netlify.app/
