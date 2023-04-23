@@ -12,6 +12,20 @@ A team page is an essential component of any business or organization's website.
 Click Here to see in your Devices
 https://6441b26448201235ae2d1f8e--bright-faloodeh-860969.netlify.app/
 
+# FLIPPING CARD
+If you are interested in creating a digital flipping card using HTML and CSS, you can do so with just a few lines of code. A flipping card is essentially a card that has two sides, with one side displaying the content and the other side showing additional information when flipped.
+
+To create a flipping card using HTML and CSS, you can start by creating a div element with a class of "card". This will serve as the container for the card content. Within this div, you can create two more div elements with classes of "card-front" and "card-back". These will represent the front and back of the card, respectively.
+
+Inside the "card-front" div, you can add the content that you want to display on the front of the card. This can include images, text, or any other HTML elements you want to use. Similarly, inside the "card-back" div, you can add the content that you want to display when the card is flipped over.
+
+To add the flipping animation, you can use CSS transitions and transforms. You can add a transform property to the "card" class, with a value of "rotateY(180deg)". This will rotate the card 180 degrees when it is flipped over. You can also add a transition property with a value of "all 0.5s ease" to create a smooth animation.
+
+https://user-images.githubusercontent.com/85302180/233859180-50c165a3-4146-4cf5-9ea6-be1b9f50e5bf.mp4
+
+CLICK HERE TO SEE IN YOUR DEVICE:
+https://fluffy-meringue-accb1c.netlify.app/
+
 # FOOTER-PAGE
 
 The footer page, also known as the footer section, is an important component of a website or web page. It is located at the bottom of the page and typically contains information that is important to users but does not necessarily belong in the main content area.
